@@ -101,6 +101,20 @@ Contributions are welcome! Please open issues or pull requests for bugs, questio
 - [ ] Add more machine learning learners (e.g., random forest, gradient boosting)
 - [ ] Parallel computation support
 - [ ] Extended documentation and tutorials
+- [ ] 
+## Citation
+
+If you use C-TMLE.jl for your own work and would like to cite us, here are the BibTeX and APA formats:
+
+- BibTeX
+
+```bibtex
+@software{C-TMLE_jl,
+    author = {Sarpong, Asantewaa Juliet and Labayle, Olivier and Khamseh, Ava and Ponting, Chris and Beentjes, Sjoerd},
+    title = {{C-TMLE.jl}},
+    url = {https://github.com/Asantewaa/C-TMLE.jl}
+}
+```
 
 ## References
 
