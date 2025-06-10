@@ -46,7 +46,7 @@ df = DataFrame(
 )
 
 # Fit C-TMLE (replace with your actual function and API!)
-result = ct_mle(
+result = ctmle(
     data = df,
     outcome = :Y,
     treatment = :A,
