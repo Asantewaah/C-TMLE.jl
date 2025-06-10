@@ -7,8 +7,6 @@ Collaborative Targeted Maximum Likelihood Estimation (C-TMLE) in Julia
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/Asantewaah/C-TMLE.jl/CI.yml?branch=main)
 ![Codecov](https://img.shields.io/codecov/c/github/Asantewaah/C-TMLE.jl/main)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Asantewaah/C-TMLE.jl)
-[![Coverage](https://codecov.io/gh/your-github-username/C-TMLE.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/Asantewaah/C-TMLE.jl)
-[![Build Status](https://github.com/Asantewaah/C-TMLE.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/Asantewaah/C-TMLE.jl/C-TMLE.jl/actions)
 [![Coverage](https://codecov.io/gh/Asantewaah/C-TMLE.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/Asantewaah/C-TMLE.jl)
 
 
